@@ -1,0 +1,104 @@
+*-----------------------------------------------------------*
+|                                                           |
+|       *********************************************       |
+|       *        __  __    __    ____  ___          *       |
+|       *       (  \/  )  /__\  (  _ \/ __)         *       |
+|       *        )    (  /(__)\  )   /\__ \         *       |
+|       *       (_/\/\_)(__)(__)(_)\_)(___/         *       |
+|       *  ________       _____             ______  *       |
+|       *  ___  __ \_____ __  /________________  /  *       |
+|       *  __  /_/ /  __ `/  __/_  ___/  __ \_  /   *       |
+|       *  _  ____// /_/ // /_ _  /   / /_/ /  /    *       |
+|       *  /_/     \__,_/ \__/ /_/    \____//_/     *       |
+|       *                                           *       |
+|       *********************************************       |
+|                                                           |
+|  VERSION: [ 2.0     ]    RELEASE DATE:  [ 22/01/2000   ]  |
+|                                                           |
+|  AUTHOR:  [ Zombi   ]    CALCULATOR(S): [ 83/83+ (Ion) ]  |
+|                                                           |
+|  E-MAIL:  [ zombis_inbox@hotmail.com                   ]  |
+|                                                           |
+|  URL:     [ zombi.web.com                              ]  |
+|                                                           |
+*-----------------------------------------------------------*
+
+----------
+HOW TO RUN
+==========
+1) Make sure ION is sent and installed on your TI-83/TI-83+.
+2) Send MARSPTRL.83P (for 83), or MARSPTRL.8XP (for 83+) to
+   your calculator.
+   (for more information on connecting your calculator to
+    your computer, see the 'Basics' section at
+    http://www.ticalc.org)
+3) Run ION.
+4) Locate 'Mars Patrol 2.0' and press ENTER or Y= to run.
+
+-----------------
+ABOUT MARS PATROL
+=================
+Guide your buggy to its destination by shooting aliens and
+UFO's, dodging their bombs, jumping over craters and mines,
+and blasting boulders away to clear the path.
+You must pass through checkpoints A to Z in order to finish
+the game.
+This smooth side-scroller incorperates a new method of
+emulating greyscale graphics. Seemingly no flickering at all.
+
+----------------------
+CHANGES IN VERSION 2.0
+======================
+ * 256 courses instead of one pre-made made course
+   (The course number is not associated with difficulty)
+ * Approximately 300 bytes smaller
+ * New title screen layout
+ * 2000 point bonus for each extra life after winning
+ * Better controls - MATH now shoots for those who prefer
+   jump to be above shoot, and UP jumps as well as ALPHA
+
+----
+KEYS
+====
+
+At the title screen:
+
+ 2nd    Start
+ Left   Decrease course number
+ Right  Increase course number
+ CLEAR  Quit
+
+During gameplay:
+
+ 2nd/MATH  Shoot up and across
+           Resume paused game
+ ALPHA/UP  Jump
+           Stop slowing down or speeding up
+ Left      Slow down
+ Right     Speed up
+ MODE      Pause
+           Boss/teacher key
+ CLEAR     Quit to title screen
+
+----
+TIPS
+====
+If you slow down enough (ie. as far left as possible), the
+scrolling will slow down as well. This is essential for
+some situations where you must jump closely spaced mines
+or holes. But it also is not good for alien combat, cannot
+jump very far or rocks become impossible to jump.
+
+-------
+CREDITS
+=======
+Thanks to:
+
+CrASH_Man (crashman@crashware.lfx.org) for his sprite
+clipping routine (PutSprClpXOR).
+
+Rusty Wagner (http://rusty.acz.org) for Virtual TI. This
+emulator is a huge help.
+
+Alphasoft (contact details unknown) for it's randomise
+routine.
